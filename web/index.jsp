@@ -11,7 +11,5 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
-  drtxxxxxxddasdasd
   </body>
 </html>
